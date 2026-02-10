@@ -2,7 +2,7 @@ daftar nama siswa dicoding
 ==
 daftar nama siswa dicoding academy
 --
-*Berikut adalah biodata siswa dicoding academy selama 3 angkatan :*
--angkatan 2021
--angkatan 2022
--angkatan 2023
+*Berikut adalah biodata siswa terdiri yang dari 3 angkatan.*
+- Angkatan 2019
+- Angkatan 2020
+- Angkatan 2021
